@@ -20,3 +20,7 @@ Predict the client's churn
 ## ML_WeatherPredicition
 Data Preprocessing & Machine Learning
 Predict the weather of Madrid
+
+## ML_PurchaseIntent
+Data Preprocessing & Machine Learning
+Predict the purchase, product and customer
